@@ -37,29 +37,4 @@ Program ini dibuat dalam bahasa pemrograman **Python** untuk menghitung total bi
 
 ## 🖥️ Contoh Tampilan Output Program
 
-```text
-SISTEM PERHITUNGAN BIAYA PARKIR
-Masukkan jenis kendaraan (Mobil/Motor): hewan
-Input tidak valid! Silakan masukkan 'Mobil' atau 'Motor'.
-
-Masukkan jenis kendaraan (Mobil/Motor): Mobil
-Masukkan jam masuk (format 24 jam, misal 8): 8
-Masukkan jam keluar (format 24 jam, misal 12): 12
-
---- HASIL PERHITUNGAN PARKIR ---
-Jenis Kendaraan: Mobil
-Jam Masuk      : 8
-Jam Keluar     : 12
-Lama Parkir    : 4 jam
-Total Biaya    : Rp 20000
-```
-
----
-
-## 🚀 Cara Menjalankan Program
-
-1. Pastikan komputer Anda terinstal **Python 3**.
-2. Jalankan perintah berikut pada terminal atau Command Prompt:
-   ```bash
-   python biaya_parkir.py
-   ```
+![Screenshot](screenshot.png)
