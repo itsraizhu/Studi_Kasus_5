@@ -1,1 +1,0 @@
-# Studi_Kasus_5
